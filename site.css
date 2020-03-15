@@ -1,0 +1,25 @@
+@charset "utf-8";
+h2{ 
+	color:#F6C
+	}/* CSS Document */
+.primeiro {
+	font-family:"Times New Roman", Times, serif;
+	color:#603
+	}
+.segundo {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#C03
+	}
+.terceiro {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color: #C30	
+	}
+.quarto {
+	font-family:Verdana, Geneva, sans-serif;
+	color:#636
+	}
+p{
+	color:#066
+	}
+
+	
